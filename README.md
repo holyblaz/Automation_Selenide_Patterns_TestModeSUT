@@ -1,0 +1,1 @@
+# Automation_Selenide_Patterns_TestModeSUT [![Build status](https://ci.appveyor.com/api/projects/status/1eembqe2mpud5pf8?svg=true)](https://ci.appveyor.com/project/holyblaz/automation-selenide-patterns-testmodesut)
